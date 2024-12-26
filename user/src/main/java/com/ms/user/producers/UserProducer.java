@@ -63,7 +63,7 @@ public class UserProducer {
             	    "        <p>Atenciosamente,</p>" +
             	    "        <p><strong>Equipe da Plataforma</strong></p>" +
             	    "        <div class='email-footer'>Se você tiver alguma dúvida, entre em contato conosco "
-            	    + "(28)99923-3311.</div>" +
+            	    + "(28)99999-9999.</div>" +
             	    "    </div>" +
             	    "</body>" +
             	    "</html>";
